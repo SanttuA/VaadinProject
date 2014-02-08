@@ -1,0 +1,7 @@
+build/
+.settings/
+.project
+.classpath
+ivysettings.xml
+ivy.xml
+WebContent/
